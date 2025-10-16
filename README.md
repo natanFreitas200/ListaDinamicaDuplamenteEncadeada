@@ -86,6 +86,3 @@ ListaDinamicaDuplamenteEncadeada/
 
 Este projeto é uma implementação educacional de estrutura de dados. Contribuições para melhorias e otimizações são bem-vindas.
 
-## Licença
-
-Este projeto é de uso educacional e está disponível sob licença aberta para fins de aprendizado.
